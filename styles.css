@@ -175,21 +175,19 @@ hr {
   position: fixed;
   top: 20px;
   left: 10px;
-  display: inline-block;
 }
 
 .img {
   top: 0px;
   position: fixed;
   left: 350px;
-  display: inline-block;
 }
 
 .bottom-container {
   background-color: #7DCE13;
   width: 600px;
   height: 175px;
-  padding: 15px;
+  padding: 20px;
   margin: 0 auto 0 auto;
   border: ridge 10px;
   position: fixed;
