@@ -1,6 +1,7 @@
 body {
   font-family: 'Lora', serif;
   text-align: center;
+  margin: 0;
 }
 
 div {
@@ -10,14 +11,15 @@ div {
 
 .top-container {
   background-color: #7DCE13;
-  width: 1620px;
+  width: 97.5%;
   height: 50px;
+  margin: 0 auto 0 auto;
   margin-top: 1180;
   padding: 20px;
   border-width: 900px;
   border-top: ridge 10px;
   border-bottom: ridge 10px;
-  position: relative;
+  position: absolute;
   text-align: center;
 }
 
@@ -160,10 +162,10 @@ hr {
 }
 
 .middle-container {
-  width: 100%;
+  width: 98%;
   height: 195px;
   padding: 20px;
-  margin: 0px;
+  margin: 0 auto 0 auto;
   top: 0px;
   background-color: grey;
   position: fixed;
@@ -171,7 +173,7 @@ hr {
 
 .cartoon {
   position: fixed;
-  top: 30px;
+  top: 20px;
   left: 10px;
   display: inline-block;
 }
@@ -187,11 +189,11 @@ hr {
   background-color: #7DCE13;
   width: 600px;
   height: 175px;
-  padding: 20px;
-  margin-left: 0px;
+  padding: 15px;
+  margin: 0 auto 0 auto;
   border: ridge 10px;
   position: fixed;
-  top: 20px;
+  top: 15px;
 }
 
 h1 {
