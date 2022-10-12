@@ -13,13 +13,12 @@ div {
   background-color: #7DCE13;
   width: 97.5%;
   height: 50px;
-
   margin-top: 1180;
   padding: 20px;
   border-width: 900px;
   border-top: ridge 10px;
   border-bottom: ridge 10px;
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
