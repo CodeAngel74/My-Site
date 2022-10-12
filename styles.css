@@ -13,6 +13,7 @@ div {
   background-color: #7DCE13;
   width: 97.5%;
   height: 50px;
+
   margin-top: 1180;
   padding: 20px;
   border-width: 900px;
@@ -38,6 +39,7 @@ div {
   margin-top: 0px;
   margin-bottom: 6px;
   font-size: 30px;
+  width: 100%;
 }
 
 .p2 {
@@ -75,9 +77,9 @@ hr {
 }
 
 .dev2 {
-  width: 18%;
-  top: 500px;
-  left: 250px;
+  width: 15%;
+  top: 50px;
+  left: 275px;
   position: absolute;
 
 }
@@ -88,14 +90,15 @@ hr {
   font-weight: normal;
   font-family: 'Peralta', serif;
   text-align: center;
-  margin: 0 auto 10px auto;
+  margin: 0 auto 0px auto;
 
 }
 
 .p3 {
   width: 35%;
   text-align: justify;
-  margin: 0 auto 0px auto;
+  margin: 30px 540px 0px 540px;
+  position: absolute;
   font-size: 20px;
 }
 
@@ -110,10 +113,11 @@ hr {
 }
 
 .dev3 {
-  width: 20%;
-  top: 700px;
-  right: 205px;
+  width: 13%;
+  top: 100px;
+  right: 300px;
   position: absolute;
+  display: inline-block;
 }
 
 .ad {
@@ -122,14 +126,14 @@ hr {
   font-weight: normal;
   font-family: 'Peralta', serif;
   text-align: center;
-  margin: 40px auto 10px auto;
+  margin: 40px auto 0px auto;
 }
 
 .p4 {
   width: 35%;
   text-align: justify;
-  margin: 0 auto 30px auto;
-  margin-top: 20px;
+  margin: 30px 540px 30px 540px;
+  position: absolute;
   font-size: 20px;
 }
 
@@ -148,6 +152,7 @@ hr {
   font-weight: normal;
   font-family: 'Peralta', serif;
   text-align: center;
+  margin: 0 auto 0 auto;
 }
 
 .p5 {
